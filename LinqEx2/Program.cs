@@ -21,8 +21,7 @@ namespace LinqEx2
 
             Console.WriteLine("Press Enter to exit");
             Console.ReadLine();
-            Console.WriteLine("Oh wait your gay!!! haha");
-            Console.ReadLine();
+            
 
         }
     }
